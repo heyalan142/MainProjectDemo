@@ -1,0 +1,16 @@
+PODS:
+  - ThirdProject (0.1.0)
+
+DEPENDENCIES:
+  - ThirdProject (from `/Users/heyalan/workspace/demo/testDemo/ThirdProject`)
+
+EXTERNAL SOURCES:
+  ThirdProject:
+    :path: "/Users/heyalan/workspace/demo/testDemo/ThirdProject"
+
+SPEC CHECKSUMS:
+  ThirdProject: 1e8e1287790d8bbd2cabb296dbcce70244dbdd60
+
+PODFILE CHECKSUM: 58669ba8a26e6ae129b917020c4b9e0c469dc703
+
+COCOAPODS: 1.11.2
